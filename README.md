@@ -55,7 +55,13 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-/* write all the steps invloved */
+1.create module encoder and decoder.
+
+2.Get inputs and outputs for encoders and decoders.
+
+3.perform or operation for encoder and and logic for decoders.
+
+4.perform RTL LOGIC and get waveform.
 
 
 
@@ -96,6 +102,8 @@ endmodule
 ### TRUTH TABLE 
 
 
+![enc](https://user-images.githubusercontent.com/94154683/171545485-081f0497-5689-49ba-9e62-f1e1ead2c234.png)
+
 
 ### PROGRAM(DECODER):
 ```
@@ -129,6 +137,9 @@ endmodule
 ![image](https://user-images.githubusercontent.com/94154683/171545245-b8c00f4e-8474-4533-8fad-755bb2704671.png)
 
 
+### TRUTH TABLE:
+![decoder6](https://user-images.githubusercontent.com/94154683/171546126-a5486670-9948-4b5d-aba6-dcad149b283b.png)
 
 
 ### RESULTS 
+Thus the program to desing encoder and decoder is done.
